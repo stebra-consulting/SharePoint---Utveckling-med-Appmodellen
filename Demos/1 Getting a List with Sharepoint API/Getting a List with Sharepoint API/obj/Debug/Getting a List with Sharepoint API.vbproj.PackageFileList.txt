@@ -1,0 +1,1 @@
+bin\Debug\Getting_a_List_with_Sharepoint_API.wsp

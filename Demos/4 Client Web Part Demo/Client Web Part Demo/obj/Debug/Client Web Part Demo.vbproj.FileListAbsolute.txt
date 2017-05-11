@@ -1,0 +1,10 @@
+c:\users\examplejohn\documents\visual studio 2013\Projects\Client Web Part Demo\Client Web Part Demo\bin\Debug\Client Web Part Demo.pdb
+c:\users\examplejohn\documents\visual studio 2013\Projects\Client Web Part Demo\Client Web Part Demo\bin\Debug\Client Web Part Demo.xml
+c:\users\examplejohn\documents\visual studio 2013\Projects\Client Web Part Demo\Client Web Part Demo\obj\Debug\Client Web Part Demo.dll
+c:\users\examplejohn\documents\visual studio 2013\Projects\Client Web Part Demo\Client Web Part Demo\obj\Debug\Client Web Part Demo.xml
+c:\users\examplejohn\documents\visual studio 2013\Projects\Client Web Part Demo\Client Web Part Demo\obj\Debug\Client Web Part Demo.pdb
+C:\Users\ExampleJohn\Documents\Visual Studio 2013\Projects\SharePoint - Utveckling med Appmodellen\Demos\4 Client Web Part Demo\Client Web Part Demo\bin\Debug\Client Web Part Demo.pdb
+C:\Users\ExampleJohn\Documents\Visual Studio 2013\Projects\SharePoint - Utveckling med Appmodellen\Demos\4 Client Web Part Demo\Client Web Part Demo\bin\Debug\Client Web Part Demo.xml
+C:\Users\ExampleJohn\Documents\Visual Studio 2013\Projects\SharePoint - Utveckling med Appmodellen\Demos\4 Client Web Part Demo\Client Web Part Demo\obj\Debug\Client Web Part Demo.dll
+C:\Users\ExampleJohn\Documents\Visual Studio 2013\Projects\SharePoint - Utveckling med Appmodellen\Demos\4 Client Web Part Demo\Client Web Part Demo\obj\Debug\Client Web Part Demo.xml
+C:\Users\ExampleJohn\Documents\Visual Studio 2013\Projects\SharePoint - Utveckling med Appmodellen\Demos\4 Client Web Part Demo\Client Web Part Demo\obj\Debug\Client Web Part Demo.pdb

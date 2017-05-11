@@ -1,0 +1,10 @@
+c:\users\examplejohn\documents\visual studio 2013\Projects\Language Demo\Language Demo\bin\Debug\Language Demo.pdb
+c:\users\examplejohn\documents\visual studio 2013\Projects\Language Demo\Language Demo\bin\Debug\Language Demo.xml
+c:\users\examplejohn\documents\visual studio 2013\Projects\Language Demo\Language Demo\obj\Debug\Language Demo.dll
+c:\users\examplejohn\documents\visual studio 2013\Projects\Language Demo\Language Demo\obj\Debug\Language Demo.xml
+c:\users\examplejohn\documents\visual studio 2013\Projects\Language Demo\Language Demo\obj\Debug\Language Demo.pdb
+C:\Users\ExampleJohn\Documents\Visual Studio 2013\Projects\SharePoint - Utveckling med Appmodellen\Demos\5 Language Demo\Language Demo\bin\Debug\Language Demo.pdb
+C:\Users\ExampleJohn\Documents\Visual Studio 2013\Projects\SharePoint - Utveckling med Appmodellen\Demos\5 Language Demo\Language Demo\bin\Debug\Language Demo.xml
+C:\Users\ExampleJohn\Documents\Visual Studio 2013\Projects\SharePoint - Utveckling med Appmodellen\Demos\5 Language Demo\Language Demo\obj\Debug\Language Demo.dll
+C:\Users\ExampleJohn\Documents\Visual Studio 2013\Projects\SharePoint - Utveckling med Appmodellen\Demos\5 Language Demo\Language Demo\obj\Debug\Language Demo.xml
+C:\Users\ExampleJohn\Documents\Visual Studio 2013\Projects\SharePoint - Utveckling med Appmodellen\Demos\5 Language Demo\Language Demo\obj\Debug\Language Demo.pdb

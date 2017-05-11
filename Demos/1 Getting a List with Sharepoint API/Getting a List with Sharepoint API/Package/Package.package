@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="64ed957e-8bb9-43ba-a878-61f0351077bb" 
+        solutionId="64ed957e-8bb9-43ba-a878-61f0351077bb" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Getting_a_List_with_Sharepoint_API"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="29aeeeee-56ae-4569-aa07-f91c42e7ba0a" />
+  </features>
+</package>

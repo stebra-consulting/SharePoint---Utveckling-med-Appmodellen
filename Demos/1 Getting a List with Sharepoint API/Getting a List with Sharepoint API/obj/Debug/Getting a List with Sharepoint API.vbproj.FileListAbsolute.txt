@@ -1,0 +1,5 @@
+c:\users\examplejohn\documents\visual studio 2013\Projects\Getting a List with Sharepoint API\Getting a List with Sharepoint API\bin\Debug\Getting a List with Sharepoint API.pdb
+c:\users\examplejohn\documents\visual studio 2013\Projects\Getting a List with Sharepoint API\Getting a List with Sharepoint API\bin\Debug\Getting a List with Sharepoint API.xml
+c:\users\examplejohn\documents\visual studio 2013\Projects\Getting a List with Sharepoint API\Getting a List with Sharepoint API\obj\Debug\Getting a List with Sharepoint API.dll
+c:\users\examplejohn\documents\visual studio 2013\Projects\Getting a List with Sharepoint API\Getting a List with Sharepoint API\obj\Debug\Getting a List with Sharepoint API.xml
+c:\users\examplejohn\documents\visual studio 2013\Projects\Getting a List with Sharepoint API\Getting a List with Sharepoint API\obj\Debug\Getting a List with Sharepoint API.pdb

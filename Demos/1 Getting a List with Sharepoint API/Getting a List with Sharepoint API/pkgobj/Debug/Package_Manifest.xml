@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="64ed957e-8bb9-43ba-a878-61f0351077bb" SharePointProductVersion="16.0">
+  <FeatureManifests>
+    <FeatureManifest Location="Getting a List with Sharepoint API_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

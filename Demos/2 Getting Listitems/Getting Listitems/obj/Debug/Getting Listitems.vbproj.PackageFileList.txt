@@ -1,0 +1,1 @@
+bin\Debug\Getting_Listitems.wsp

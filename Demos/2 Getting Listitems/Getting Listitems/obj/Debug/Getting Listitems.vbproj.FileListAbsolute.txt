@@ -1,0 +1,5 @@
+c:\users\examplejohn\documents\visual studio 2013\Projects\Getting Listitems\Getting Listitems\bin\Debug\Getting Listitems.pdb
+c:\users\examplejohn\documents\visual studio 2013\Projects\Getting Listitems\Getting Listitems\bin\Debug\Getting Listitems.xml
+c:\users\examplejohn\documents\visual studio 2013\Projects\Getting Listitems\Getting Listitems\obj\Debug\Getting Listitems.dll
+c:\users\examplejohn\documents\visual studio 2013\Projects\Getting Listitems\Getting Listitems\obj\Debug\Getting Listitems.xml
+c:\users\examplejohn\documents\visual studio 2013\Projects\Getting Listitems\Getting Listitems\obj\Debug\Getting Listitems.pdb

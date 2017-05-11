@@ -1,0 +1,5 @@
+c:\users\examplejohn\documents\visual studio 2013\Projects\Sorting with Caml\Sorting with Caml\bin\Debug\Sorting with Caml.pdb
+c:\users\examplejohn\documents\visual studio 2013\Projects\Sorting with Caml\Sorting with Caml\bin\Debug\Sorting with Caml.xml
+c:\users\examplejohn\documents\visual studio 2013\Projects\Sorting with Caml\Sorting with Caml\obj\Debug\Sorting with Caml.dll
+c:\users\examplejohn\documents\visual studio 2013\Projects\Sorting with Caml\Sorting with Caml\obj\Debug\Sorting with Caml.xml
+c:\users\examplejohn\documents\visual studio 2013\Projects\Sorting with Caml\Sorting with Caml\obj\Debug\Sorting with Caml.pdb

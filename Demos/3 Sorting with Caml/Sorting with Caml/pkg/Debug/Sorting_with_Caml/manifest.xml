@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="67cb8e07-51c2-450f-a4bd-d515372b6a98" SharePointProductVersion="16.0">
+  <FeatureManifests>
+    <FeatureManifest Location="Sorting with Caml_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

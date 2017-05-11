@@ -1,0 +1,1 @@
+C:\Users\ExampleJohn\Documents\Visual Studio 2013\Projects\SharePoint - Utveckling med Appmodellen\Demos\4 Client Web Part Demo\Client Web Part Demo\bin\Debug\app.publish\1.0.0.1\Client Web Part Demo.app
